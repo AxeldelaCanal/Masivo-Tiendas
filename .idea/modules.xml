@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Enterprise Data Loader API.iml" filepath="$PROJECT_DIR$/.idea/Enterprise Data Loader API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enterprise Data Loader API/Enterprise Data Loader API/masivo-tiendas.iml" filepath="$PROJECT_DIR$/Enterprise Data Loader API/Enterprise Data Loader API/masivo-tiendas.iml" />
+    </modules>
+  </component>
+</project>
