@@ -45,9 +45,9 @@ Este servicio actúa como un **Middleware de Adaptación**:
 * Maven 3.8+.
 
 ### 1. Clonar
-```bash`
-git clone [https://github.com/AxeldelaCanal/Masivo-Tiendas.git](https://github.com/AxeldelaCanal/Masivo-Tiendas.git)
-cd masivo-tiendas
+bash
+`git clone [https://github.com/AxeldelaCanal/Masivo-Tiendas.git](https://github.com/AxeldelaCanal/Masivo-Tiendas.git)
+cd masivo-tiendas`
 
 ### 2. Ejecutar con Docker (Recomendado)
 El proyecto incluye un docker-compose.yml que levanta la API y la base de datos MySQL automáticamente.
